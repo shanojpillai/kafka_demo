@@ -1,4 +1,4 @@
-# Kafka - Stimulate a dummy Bank reconciliation workflow
+# Kafka - Stimulate a dummy Bank Reconciliation Workflow
 
 ![Kafka_MVP-2023-01-04-0927](https://user-images.githubusercontent.com/97699968/211214022-6715ae7b-2faa-4acf-8f06-309c943386e8.png)
 
